@@ -10,6 +10,10 @@
 - You may use this as a normal text editor or install the application locally and use it in offline mode.
 - Your data will be stored in offline mode and reconnected when you are online again.
 
+## Contributors
+
+- I used starter code from the curriculum as well as modified starter code that our instructor provided us with to help us complete this assignment.
+
 ## Screenshot
 
 - Here is a screenshot of the working webpage and the installed PWA.
